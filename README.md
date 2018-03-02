@@ -1,2 +1,2 @@
 # scratchpad
-Initial work space
+temporary workspace
